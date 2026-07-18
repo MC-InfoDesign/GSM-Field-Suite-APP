@@ -1,14 +1,13 @@
 GSM Field Suite
 Free Android tools for RF engineers, drive testers, and field technicians. No Play Store required, direct APK download, open for testing.
 
-Afficher l'image Afficher l'image Afficher l'image Afficher l'image
-
 Website: gsm-field-suite.com Feedback / bugs: contact@gsm-field-suite.com (every app has a built-in "report" button too)
 
 📡 GSM Drive Test
 Real-time signal logging for drive test campaigns.
 
-<img src="https://gsm-field-suite.com/assets/img/drive-test/Screenshot_20260706_215031.jpg" width="280">
+Afficher l'image
+
 Live RSRP / RSRQ / SINR / RSSI, serving cell + neighbor cells
 GPS-tagged measurements, live map while driving
 Campaign management, CSV / KML export
@@ -18,7 +17,8 @@ Download GSM Drive Test v1.2.0
 🧭 GSM Azimut Checker
 Verify a real antenna azimuth against its design value, on site, with your phone.
 
-<img src="https://gsm-field-suite.com/assets/img/azimut/Screenshot_20260706_215849.jpg" width="280">
+Afficher l'image
+
 AR compass overlay, live camera view
 Virtual laser distance measurement
 Site and antenna database, alignment tolerance check
