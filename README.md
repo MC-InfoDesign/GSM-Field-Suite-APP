@@ -11,7 +11,7 @@ Feedback / bugs: contact@gsm-field-suite.com (every app has a built-in "report" 
 
 Real-time signal logging for drive test campaigns.
 
-![GSM Drive Test screenshot](https://gsm-field-suite.com/assets/img/drive-test/Screenshot_20260706_215031.jpg)
+<img src="https://gsm-field-suite.com/assets/img/drive-test/Screenshot_20260706_215031.jpg" alt="GSM Drive Test screenshot" width="240">
 
 - Live RSRP / RSRQ / SINR / RSSI, serving cell + neighbor cells
 - GPS-tagged measurements, live map while driving
@@ -26,7 +26,7 @@ Real-time signal logging for drive test campaigns.
 
 Verify a real antenna azimuth against its design value, on site, with your phone.
 
-![GSM Azimut Checker screenshot](https://gsm-field-suite.com/assets/img/azimut/Screenshot_20260706_215849.jpg)
+<img src="https://gsm-field-suite.com/assets/img/azimut/Screenshot_20260706_215849.jpg" alt="GSM Azimut Checker screenshot" width="240">
 
 - AR compass overlay, live camera view
 - Virtual laser distance measurement
