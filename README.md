@@ -18,7 +18,7 @@ Real-time signal logging for drive test campaigns.
 - Campaign management, CSV / KML export
 - Car mode (screen stays on, no accidental taps)
 
-**[Download GSM Drive Test v1.2.0][[(https://play.google.com/store/apps/details?id=com.drivetest.app]**
+**[Download GSM Drive Test v1.2.0](https://play.google.com/store/apps/details?id=com.drivetest.app)**
 
 ---
 
