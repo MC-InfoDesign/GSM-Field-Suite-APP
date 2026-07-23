@@ -8,7 +8,7 @@
 
 Built by one RF engineer who got tired of carrying laptop-based gear for basic field checks. These are the tools I actually use myself, on real sites, released as-is so other engineers can skip the same pain.
 
-**If any of this saves you a trip back to the truck, a ⭐ star helps a lot** — it's the main way people like you find this repo.
+**If any of this saves you a trip back to the truck, a ⭐ star helps a lot** , it's the main way people like you find this repo.
 
 Website: [gsm-field-suite.com](https://gsm-field-suite.com)
 Feedback / bugs: contact@gsm-field-suite.com (every app has a built-in "report" button too, GitHub issues work too)
